@@ -3,7 +3,7 @@ defmodule Bot.Shared.ConsoleLogger.JasonSafeFormatter do
   Copy pasted from `LoggerJSON` 5.1.4:
   https://github.com/Nebo15/logger_json/blob/5.1.4/lib/logger_json/jason_safe_formatter.ex
 
-  Was removed in `LoggerJSON` 6.0 but it's convenient for our local `Backend.Shared.ConsoleLogger`.
+  Was removed in `LoggerJSON` 6.0 but it's convenient for our local `Bot.Shared.ConsoleLogger`.
   """
 
   @doc """
